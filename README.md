@@ -6,11 +6,12 @@
 - [myclass](https://7kwilly.github.io/1071-staticweb/w02/myclass.html)
 ## [w03](https://github.com/7kwilly/1071-staticweb/tree/master/w03)
 - [tku60](https://7kwilly.github.io/1071-staticweb/w03/tku60.html)
-- [div
+- [div](https://7kwilly.github.io/1071-staticweb/w03/div.html)
 ## [w04](https://github.com/7kwilly/1071-staticweb/tree/master/w04)
-- [
+- [ttt](https://7kwilly.github.io/1071-staticweb/w04/TTT.html}
 ## [index](https://github.com/7kwilly/1071-staticweb/blob/master/index.html)
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA4NzQzNDUsNzAyMjQwMjUzLDExMT
-gwMDYyMzBdfQ==
+eyJoaXN0b3J5IjpbMTY3MjQ4ODgwOCw3MDIyNDAyNTMsMTExOD
+AwNjIzMF19
 -->
