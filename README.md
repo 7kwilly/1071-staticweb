@@ -3,7 +3,7 @@
 ## [w02](https://github.com/7kwilly/1071-staticweb/tree/master/w02)
 ## [w03](https://github.com/7kwilly/1071-staticweb/tree/master/w03)
 ## [w04](https://github.com/7kwilly/1071-staticweb/tree/master/w04)
-## [ind
+## [index](https://github.com/7kwilly/1071-staticweb/blob/master/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg0ODQxODddfQ==
+eyJoaXN0b3J5IjpbMTM1OTY2MzddfQ==
 -->
