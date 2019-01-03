@@ -14,11 +14,11 @@
  ##[w05](https://github.com/7kwilly/1071-staticweb/tree/master/w05)
 -[imagegallery](https://7kwilly.github.io/1071-staticweb/w05/imagegallery.html)
 -[petwebsit](https://7kwilly.github.io/1071-staticweb/w05/petwebsite.html)
-##[w07](https://github.com/7kwilly/1071-staticweb/tree/master/w07)
+## [w07](https://github.com/7kwilly/1071-staticweb/tree/master/w07)
 -[index](https://7kwilly.github.io/1071-staticweb/w07/index.html)
 -[test](https://7kwilly.github.io/1071-staticweb/w07/test.html)
-##[tkuassignment](https://7kwilly.github.io/1071-staticweb/tkuassignment.html)
-##[my_page](https://7kwilly.github.io/1071-staticweb/final/my_page.html)
+## [tkuassignment](https://7kwilly.github.io/1071-staticweb/tkuassignment.html)
+## [my_page](https://7kwilly.github.io/1071-staticweb/final/my_page.html)
 ## [index](https://github.com/7kwilly/1071-staticweb/blob/master/index.html)
 網頁設計好難喔，下學期也要好好學。
 <!--stackedit_data:
