@@ -10,7 +10,7 @@
 ## [w04](https://github.com/7kwilly/1071-staticweb/tree/master/w04)
 - [ttt](https://7kwilly.github.io/1071-staticweb/w04/TTT.html)
 - [blog](https://7kwilly.github.io/1071-staticweb/w04/blog.html)
-- [profile]()
+- [profile](https://7kwilly.github.io/1071-staticweb/w04/profile.html)
 ## [index](https://github.com/7kwilly/1071-staticweb/blob/master/index.html)
 網頁設計好難喔，下學期也要好好學。
 <!--stackedit_data:
