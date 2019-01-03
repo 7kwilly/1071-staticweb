@@ -12,7 +12,7 @@
 - [blog](https://7kwilly.github.io/1071-staticweb/w04/blog.html)
 - [profile]()
 ## [index](https://github.com/7kwilly/1071-staticweb/blob/master/index.html)
-
+#網頁設計好難喔，下學期也要好好學。
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzOTQzNDQ1OSw3MDIyNDAyNTMsMTExOD
 AwNjIzMF19
